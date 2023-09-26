@@ -4,6 +4,8 @@ This SDK is based on the official [API documentation](https://docs.novita.ai/).
 
 **Join our discord server for help**
 
+[![](https://dcbadge.vercel.app/api/server/2SFYcfajN7)](https://discord.gg/2SFYcfajN7)
+
 ## Installation
 
 ```bash
@@ -53,15 +55,15 @@ func main() {
 
 ## Examples
 
-### 1. Txt2Img with LoRA
+### Txt2Img with LoRA
 
 Refer to [./example/lora/main.go](./example/lora/main.go)
 
-### 2. Model Search
+### Model Search
 
 Refer to [./example/model_search/main.go](./example/model_search/main.go)
 
-### 3. ControlNet QRCode
+### ControlNet QRCode
 
 Refer to [./example/qrcode/main.go](./example/qrcode/main.go)
 
