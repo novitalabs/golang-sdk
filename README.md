@@ -29,8 +29,8 @@ import (
 )
 
 func main() {
-	// get your api key refer to https://docs.novita.ai/get-started/
-	const apiKey = "your-key"
+	// Get your API key refer to https://novita.ai/get-started/ .
+	const apiKey = "Your-API-Key"
 	client, err := request.NewClient(apiKey)
 	if err != nil {
 		fmt.Printf("new client failed, %v\n", err)
