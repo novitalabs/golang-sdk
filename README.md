@@ -4,7 +4,7 @@ This SDK is based on the official [API documentation](https://docs.novita.ai/).
 
 **Join our discord server for help**
 
-[![](https://dcbadge.vercel.app/api/server/2SFYcfajN7)](https://discord.gg/2SFYcfajN7)
+[![](https://dcbadge.vercel.app/api/server/Mqx7nWYzDF)](https://discord.gg/Mqx7nWYzDF)
 
 ## Installation
 
